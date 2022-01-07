@@ -1,6 +1,7 @@
 # api_usage
 
-[my_image](https://gifyu.com/image/SSJXk)
+![Screenshot_1641547737](https://user-images.githubusercontent.com/55737606/148528171-c77e56ec-8a67-463a-9acd-4a5995945e97.png)
+
 A new Flutter project.
 
 ## Getting Started
